@@ -2,6 +2,6 @@ package misc
 
 import "fmt"
 
-func sample() {
+func Sample() {
 	fmt.Println("a sample, ignore it!")
 }
